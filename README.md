@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, 👋 I'm Gustavo 👨‍💻!</h1>
 
+![](https://komarev.com/ghpvc/?username=gustavocd&color=green)
+
 I'm a Software Engineer who loves writing readable and scalable code, learning new things every day, sharing my knowledge with my teammates, giving and receiving feedback, trying new tools and frameworks from time to time.
 
 <a href="https://github.com/gustavocd/gustavocd">
